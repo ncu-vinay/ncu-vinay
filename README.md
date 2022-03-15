@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vinay Kumar.
+- 👀 I’m interested in development and creative stuff.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on some IT related problems.
+- 📫 How to reach me . You can just contact me here.
